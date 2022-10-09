@@ -1,6 +1,6 @@
 # AutoLayers
 # Preview
-<img scr="https://github.com/Terry-LT/AutoLayers/blob/master/static.gif"> </img>
+<img src="https://github.com/Terry-LT/AutoLayers/blob/master/static.gif"> </img>
 
 # Description
 ...
